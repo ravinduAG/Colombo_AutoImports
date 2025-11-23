@@ -1,0 +1,118 @@
+<div class="estimation-container">
+  <h2>Car Estimation</h2>
+
+  <form (ngSubmit)="onCalculate()" #estimationForm="ngForm">
+
+    <!-- Brand Dropdown -->
+    <div class="form-group">
+      <label for="brand">Brand</label>
+      <select id="brand" [(ngModel)]="form.brandId" name="brandId"
+              (change)="onBrandChange()" required>
+        <option value="">Select Brand</option>
+        <option *ngFor="let brand of brands" [value]="brand.id">{{ brand.name }}</option>
+      </select>
+    </div>
+
+    <!-- Model Dropdown -->
+    <div class="form-group">
+      <label for="model">Model</label>
+      <select id="model" [(ngModel)]="form.modelId" name="modelId"
+              (change)="onModelChange()" required [disabled]="!models.length">
+        <option value="">Select Model</option>
+        <option *ngFor="let model of models" [value]="model.id">{{ model.name }}</option>
+      </select>
+    </div>
+
+    <!-- SubModel Dropdown -->
+    <div class="form-group">
+      <label for="subModel">SubModel</label>
+      <select id="subModel" [(ngModel)]="form.subModelId" name="subModelId"
+              (change)="onSubModelChange()" required [disabled]="!subModels.length">
+        <option value="">Select SubModel</option>
+        <option *ngFor="let sub of subModels" [value]="sub.id">{{ sub.name }}</option>
+      </select>
+    </div>
+
+    <!-- Year Dropdown -->
+    <div class="form-group">
+      <label for="year">Year</label>
+      <select id="year" name="year" [(ngModel)]="form.year" required>
+        <option value="">Select Year</option>
+        <option *ngFor="let y of years" [value]="y">{{ y }}</option>
+      </select>
+    </div>
+
+    <!-- Color Dropdown -->
+    <div class="form-group">
+      <label for="color">Color</label>
+      <select id="color" name="color" [(ngModel)]="form.color" required>
+        <option value="">Select Color</option>
+        <option *ngFor="let c of colors" [value]="c">{{ c }}</option>
+      </select>
+    </div>
+
+    <!-- Customer Name Input -->
+    <div class="form-group">
+      <label for="customer">Customer Name</label>
+      <input
+        type="text"
+        id="customer"
+        name="customer"
+        [(ngModel)]="form.customer"
+        placeholder="Enter customer name"
+        required
+      />
+    </div> 
+
+    <!-- Buttons -->
+    <div class="form-buttons">
+      <button type="submit" [disabled]="!estimationForm.form.valid">Get Estimate</button>
+      <button type="button" (click)="onReset()">Reset</button>
+      <button type="button" (click)="downloadExcel()">Download Excel</button>
+      <button type="button" (click)="downloadPdf()">Download PDF</button>
+    </div>
+
+  </form>
+
+  <!-- Estimation Result and Quotation Summary -->
+  <div class="estimation-result" *ngIf="estimationResult">
+    <!-- Quotation Summary -->
+    <div class="quotation-summary">
+      <h3>Quotation Summary</h3>
+      <table class="quotation-table">
+        <tr>
+          <td>CIF (JPY):</td>
+          <td>{{ estimationResult.ciF_JPY }} JPY</td>
+        </tr>
+        <tr>
+          <td>Exchange Rate:</td>
+          <td>{{ estimationResult.exchangeRate }} LKR</td>
+        </tr>
+        <tr>
+          <td>CIF (LKR):</td>
+          <td>{{ estimationResult.ciF_LKR }} LKR</td>
+        </tr>
+        <tr>
+          <td>Total Duty:</td>
+          <td>{{ estimationResult.totalDuty }} LKR</td>
+        </tr>
+        <tr>
+          <td>Clearing Charges:</td>
+          <td>{{ estimationResult.clearingCharges }} LKR</td>
+        </tr>
+        <tr>
+          <td>Bank Doc Charge:</td>
+          <td>{{ estimationResult.bankDocCharge }} LKR</td>
+        </tr>
+        <tr>
+          <td>Delivery Charges:</td>
+          <td>{{ estimationResult.deliveryCharges }} LKR</td>
+        </tr>
+        <tr class="total-cost-row">
+          <td>Total Cost:</td>
+          <td>{{ estimationResult.totalCost }} LKR</td>
+        </tr>
+      </table>
+    </div>
+  </div>
+</div>
