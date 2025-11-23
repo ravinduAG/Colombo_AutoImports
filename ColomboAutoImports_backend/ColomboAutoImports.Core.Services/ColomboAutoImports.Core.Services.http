@@ -1,0 +1,6 @@
+@ColomboAutoImports.Core.Services_HostAddress = http://localhost:5267
+
+GET {{ColomboAutoImports.Core.Services_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

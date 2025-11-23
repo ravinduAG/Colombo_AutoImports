@@ -1,0 +1,851 @@
+INSERT INTO [ColomboAutoImportsDB].[dbo].[Brands] (Name) VALUES
+('Toyota'),
+('Honda'),
+('Nissan'),
+('Suzuki'),
+('Mitsubishi'),
+('Ford'),
+('Hyundai'),
+('Kia'),
+('Mazda'),
+('BMW'),
+('Mercedes-Benz'),
+('Audi'),
+('Volkswagen'),
+('Lexus'),
+('Subaru'),
+('Isuzu'),
+('Land Rover'),
+('Jeep'),
+('Tata'),
+('MG'),
+('Volvo'),
+('Peugeot'),
+('Citroen'),
+('Fiat'),
+('Renault'),
+('Hino'),
+('Mahindra'),
+('Jaguar'),
+('Chevrolet'),
+('Dodge');
+
+
+USE [ColomboAutoImportsDB];
+GO
+
+-- ====================== Toyota ======================
+INSERT INTO [dbo].[Models] (Name, BrandId) VALUES 
+('Corolla', 1),
+('Prius', 1),
+('Hilux', 1),
+('Land Cruiser', 1),
+('RAV4', 1);
+
+-- ====================== Honda ======================
+INSERT INTO [dbo].[Models] (Name, BrandId) VALUES
+('Civic', 2),
+('Accord', 2),
+('CR-V', 2),
+('Jazz', 2),
+('HR-V', 2);
+
+-- ====================== Nissan ======================
+INSERT INTO [dbo].[Models] (Name, BrandId) VALUES
+('Altima', 3),
+('X-Trail', 3),
+('Navara', 3),
+('Note', 3),
+('Patrol', 3);
+
+-- ====================== Suzuki ======================
+INSERT INTO [dbo].[Models] (Name, BrandId) VALUES
+('Swift', 4),
+('Vitara', 4),
+('Alto', 4),
+('Celerio', 4),
+('Baleno', 4);
+
+-- ====================== Mitsubishi ======================
+INSERT INTO [dbo].[Models] (Name, BrandId) VALUES
+('Pajero', 5),
+('Lancer', 5),
+('Outlander', 5),
+('ASX', 5),
+('Triton', 5);
+
+-- ====================== Ford ======================
+INSERT INTO [dbo].[Models] (Name, BrandId) VALUES
+('Ranger', 6),
+('Fiesta', 6),
+('Focus', 6),
+('Mustang', 6),
+('Everest', 6);
+
+-- ====================== Hyundai ======================
+INSERT INTO [dbo].[Models] (Name, BrandId) VALUES
+('Tucson', 7),
+('Elantra', 7),
+('Santa Fe', 7),
+('i20', 7),
+('Kona', 7);
+
+-- ====================== Kia ======================
+INSERT INTO [dbo].[Models] (Name, BrandId) VALUES
+('Sportage', 8),
+('Sorento', 8),
+('Picanto', 8),
+('Seltos', 8),
+('Stinger', 8);
+
+-- ====================== Mazda ======================
+INSERT INTO [dbo].[Models] (Name, BrandId) VALUES
+('CX-5', 9),
+('Mazda3', 9),
+('CX-30', 9),
+('Mazda2', 9),
+('MX-5', 9);
+
+-- ====================== BMW ======================
+INSERT INTO [dbo].[Models] (Name, BrandId) VALUES
+('X5', 10),
+('3 Series', 10),
+('5 Series', 10),
+('X3', 10),
+('1 Series', 10);
+
+-- ====================== Mercedes-Benz ======================
+INSERT INTO [dbo].[Models] (Name, BrandId) VALUES
+('C-Class', 11),
+('E-Class', 11),
+('GLC', 11),
+('GLE', 11),
+('A-Class', 11);
+
+-- ====================== Audi ======================
+INSERT INTO [dbo].[Models] (Name, BrandId) VALUES
+('A3', 12),
+('A4', 12),
+('A6', 12),
+('Q5', 12),
+('Q7', 12);
+
+-- ====================== Volkswagen ======================
+INSERT INTO [dbo].[Models] (Name, BrandId) VALUES
+('Golf', 13),
+('Polo', 13),
+('Passat', 13),
+('Tiguan', 13),
+('Beetle', 13);
+
+-- ====================== Lexus ======================
+INSERT INTO [dbo].[Models] (Name, BrandId) VALUES
+('RX', 14),
+('ES', 14),
+('NX', 14),
+('LX', 14),
+('UX', 14);
+
+-- ====================== Subaru ======================
+INSERT INTO [dbo].[Models] (Name, BrandId) VALUES
+('Outback', 15),
+('Forester', 15),
+('XV', 15),
+('Impreza', 15),
+('BRZ', 15);
+
+-- ====================== Isuzu ======================
+INSERT INTO [dbo].[Models] (Name, BrandId) VALUES
+('D-Max', 16),
+('MU-X', 16);
+
+-- ====================== Land Rover ======================
+INSERT INTO [dbo].[Models] (Name, BrandId) VALUES
+('Discovery', 17),
+('Range Rover', 17),
+('Defender', 17);
+
+-- ====================== Jeep ======================
+INSERT INTO [dbo].[Models] (Name, BrandId) VALUES
+('Wrangler', 18),
+('Cherokee', 18),
+('Compass', 18);
+
+-- ====================== Tata ======================
+INSERT INTO [dbo].[Models] (Name, BrandId) VALUES
+('Nexon', 19),
+('Harrier', 19),
+('Safari', 19),
+('Altroz', 19);
+
+-- ====================== MG ======================
+INSERT INTO [dbo].[Models] (Name, BrandId) VALUES
+('Hector', 20),
+('ZS', 20),
+('Gloster', 20);
+
+-- ====================== Volvo ======================
+INSERT INTO [dbo].[Models] (Name, BrandId) VALUES
+('XC60', 21),
+('XC90', 21),
+('S60', 21),
+('V60', 21),
+('XC40', 21);
+
+-- ====================== Peugeot ======================
+INSERT INTO [dbo].[Models] (Name, BrandId) VALUES
+('208', 22),
+('308', 22),
+('3008', 22),
+('5008', 22),
+('2008', 22);
+
+-- ====================== Citroen ======================
+INSERT INTO [dbo].[Models] (Name, BrandId) VALUES
+('C3', 23),
+('C4', 23),
+('C5 Aircross', 23),
+('Berlingo', 23),
+('DS3', 23);
+
+-- ====================== Fiat ======================
+INSERT INTO [dbo].[Models] (Name, BrandId) VALUES
+('500', 24),
+('Panda', 24),
+('Tipo', 24),
+('124 Spider', 24);
+
+-- ====================== Renault ======================
+INSERT INTO [dbo].[Models] (Name, BrandId) VALUES
+('Duster', 25),
+('Koleos', 25),
+('Clio', 25),
+('Captur', 25),
+('Megane', 25);
+
+-- ====================== Hino ======================
+INSERT INTO [dbo].[Models] (Name, BrandId) VALUES
+('300', 26),
+('500', 26);
+
+-- ====================== Mahindra ======================
+INSERT INTO [dbo].[Models] (Name, BrandId) VALUES
+('XUV500', 27),
+('Thar', 27),
+('Scorpio', 27),
+('Bolero', 27);
+
+-- ====================== Jaguar ======================
+INSERT INTO [dbo].[Models] (Name, BrandId) VALUES
+('F-Pace', 28),
+('XE', 28),
+('XF', 28),
+('I-Pace', 28),
+('E-Pace', 28);
+
+-- ====================== Chevrolet ======================
+INSERT INTO [dbo].[Models] (Name, BrandId) VALUES
+('Cruze', 29),
+('Captiva', 29),
+('Trailblazer', 29),
+('Spark', 29);
+
+-- ====================== Dodge ======================
+INSERT INTO [dbo].[Models] (Name, BrandId) VALUES
+('Charger', 30),
+('Challenger', 30),
+('Durango', 30);
+
+
+
+USE [ColomboAutoImportsDB];
+GO
+
+-- ====================== Toyota ======================
+-- Corolla (ModelId = 1)
+INSERT INTO [dbo].[SubModels] (Name, ModelId) VALUES
+('Corolla GLi', 1),
+('Corolla XLi', 1),
+('Corolla Altis', 1);
+
+-- Prius (ModelId = 2)
+INSERT INTO [dbo].[SubModels] (Name, ModelId) VALUES
+('Prius Alpha', 2),
+('Prius S', 2);
+
+-- Hilux (ModelId = 3)
+INSERT INTO [dbo].[SubModels] (Name, ModelId) VALUES
+('Hilux Single Cab', 3),
+('Hilux Double Cab', 3);
+
+-- Land Cruiser (ModelId = 4)
+INSERT INTO [dbo].[SubModels] (Name, ModelId) VALUES
+('Land Cruiser VX', 4),
+('Land Cruiser GX', 4);
+
+-- RAV4 (ModelId = 5)
+INSERT INTO [dbo].[SubModels] (Name, ModelId) VALUES
+('RAV4 XLE', 5),
+('RAV4 Limited', 5);
+
+-- ====================== Honda ======================
+-- Civic (ModelId = 6)
+INSERT INTO [dbo].[SubModels] (Name, ModelId) VALUES
+('Civic VTi', 6),
+('Civic RS', 6);
+
+-- Accord (ModelId = 7)
+INSERT INTO [dbo].[SubModels] (Name, ModelId) VALUES
+('Accord LX', 7),
+('Accord EX', 7);
+
+-- CR-V (ModelId = 8)
+INSERT INTO [dbo].[SubModels] (Name, ModelId) VALUES
+('CR-V EX', 8),
+('CR-V LX', 8);
+
+-- Jazz (ModelId = 9)
+INSERT INTO [dbo].[SubModels] (Name, ModelId) VALUES
+('Jazz V', 9),
+('Jazz S', 9);
+
+-- HR-V (ModelId = 10)
+INSERT INTO [dbo].[SubModels] (Name, ModelId) VALUES
+('HR-V RS', 10),
+('HR-V LX', 10);
+
+-- ====================== Nissan ======================
+-- Altima (ModelId = 11)
+INSERT INTO [dbo].[SubModels] (Name, ModelId) VALUES
+('Altima 2.5S', 11),
+('Altima 2.5SL', 11);
+
+-- X-Trail (ModelId = 12)
+INSERT INTO [dbo].[SubModels] (Name, ModelId) VALUES
+('X-Trail S', 12),
+('X-Trail SV', 12);
+
+-- Navara (ModelId = 13)
+INSERT INTO [dbo].[SubModels] (Name, ModelId) VALUES
+('Navara King Cab', 13),
+('Navara Double Cab', 13);
+
+-- Note (ModelId = 14)
+INSERT INTO [dbo].[SubModels] (Name, ModelId) VALUES
+('Note S', 14),
+('Note SV', 14);
+
+-- Patrol (ModelId = 15)
+INSERT INTO [dbo].[SubModels] (Name, ModelId) VALUES
+('Patrol LE', 15),
+('Patrol SE', 15);
+
+-- ====================== Suzuki ======================
+-- Swift (ModelId = 16)
+INSERT INTO [dbo].[SubModels] (Name, ModelId) VALUES
+('Swift GL', 16),
+('Swift GLX', 16);
+
+-- Vitara (ModelId = 17)
+INSERT INTO [dbo].[SubModels] (Name, ModelId) VALUES
+('Vitara GL', 17),
+('Vitara GLX', 17);
+
+-- Alto (ModelId = 18)
+INSERT INTO [dbo].[SubModels] (Name, ModelId) VALUES
+('Alto LX', 18),
+('Alto DLX', 18);
+
+-- Celerio (ModelId = 19)
+INSERT INTO [dbo].[SubModels] (Name, ModelId) VALUES
+('Celerio LX', 19),
+('Celerio VXL', 19);
+
+-- Baleno (ModelId = 20)
+INSERT INTO [dbo].[SubModels] (Name, ModelId) VALUES
+('Baleno GL', 20),
+('Baleno GLX', 20);
+
+-- ====================== Mitsubishi ======================
+-- Pajero (ModelId = 21)
+INSERT INTO [dbo].[SubModels] (Name, ModelId) VALUES
+('Pajero GLS', 21),
+('Pajero Exceed', 21);
+
+-- Lancer (ModelId = 22)
+INSERT INTO [dbo].[SubModels] (Name, ModelId) VALUES
+('Lancer GL', 22),
+('Lancer EX', 22);
+
+-- Outlander (ModelId = 23)
+INSERT INTO [dbo].[SubModels] (Name, ModelId) VALUES
+('Outlander GLS', 23),
+('Outlander EX', 23);
+
+-- ASX (ModelId = 24)
+INSERT INTO [dbo].[SubModels] (Name, ModelId) VALUES
+('ASX GL', 24),
+('ASX GLX', 24);
+
+-- Triton (ModelId = 25)
+INSERT INTO [dbo].[SubModels] (Name, ModelId) VALUES
+('Triton GL', 25),
+('Triton GLX', 25);
+
+-- ====================== Ford ======================
+-- Ranger (ModelId = 26)
+INSERT INTO [dbo].[SubModels] (Name, ModelId) VALUES
+('Ranger XL', 26),
+('Ranger XLT', 26);
+
+-- Fiesta (ModelId = 27)
+INSERT INTO [dbo].[SubModels] (Name, ModelId) VALUES
+('Fiesta LX', 27),
+('Fiesta SEL', 27);
+
+-- Focus (ModelId = 28)
+INSERT INTO [dbo].[SubModels] (Name, ModelId) VALUES
+('Focus SE', 28),
+('Focus Titanium', 28);
+
+-- Mustang (ModelId = 29)
+INSERT INTO [dbo].[SubModels] (Name, ModelId) VALUES
+('Mustang GT', 29),
+('Mustang EcoBoost', 29);
+
+-- Everest (ModelId = 30)
+INSERT INTO [dbo].[SubModels] (Name, ModelId) VALUES
+('Everest XLS', 30),
+('Everest Titanium', 30);
+
+
+
+USE [ColomboAutoImportsDB];
+GO
+
+-- ====================== Toyota ======================
+-- Corolla (ModelId = 1)
+INSERT INTO [dbo].[SubModels] (Name, ModelId) VALUES
+('Corolla GLi', 1),
+('Corolla XLi', 1),
+('Corolla Altis', 1);
+
+-- Prius (ModelId = 2)
+INSERT INTO [dbo].[SubModels] (Name, ModelId) VALUES
+('Prius Alpha', 2),
+('Prius S', 2);
+
+-- Hilux (ModelId = 3)
+INSERT INTO [dbo].[SubModels] (Name, ModelId) VALUES
+('Hilux Single Cab', 3),
+('Hilux Double Cab', 3);
+
+-- Land Cruiser (ModelId = 4)
+INSERT INTO [dbo].[SubModels] (Name, ModelId) VALUES
+('Land Cruiser VX', 4),
+('Land Cruiser GX', 4);
+
+-- RAV4 (ModelId = 5)
+INSERT INTO [dbo].[SubModels] (Name, ModelId) VALUES
+('RAV4 XLE', 5),
+('RAV4 Limited', 5);
+
+-- ====================== Honda ======================
+-- Civic (ModelId = 6)
+INSERT INTO [dbo].[SubModels] (Name, ModelId) VALUES
+('Civic VTi', 6),
+('Civic RS', 6);
+
+-- Accord (ModelId = 7)
+INSERT INTO [dbo].[SubModels] (Name, ModelId) VALUES
+('Accord LX', 7),
+('Accord EX', 7);
+
+-- CR-V (ModelId = 8)
+INSERT INTO [dbo].[SubModels] (Name, ModelId) VALUES
+('CR-V EX', 8),
+('CR-V LX', 8);
+
+-- Jazz (ModelId = 9)
+INSERT INTO [dbo].[SubModels] (Name, ModelId) VALUES
+('Jazz V', 9),
+('Jazz S', 9);
+
+-- HR-V (ModelId = 10)
+INSERT INTO [dbo].[SubModels] (Name, ModelId) VALUES
+('HR-V RS', 10),
+('HR-V LX', 10);
+
+-- ====================== Nissan ======================
+-- Altima (ModelId = 11)
+INSERT INTO [dbo].[SubModels] (Name, ModelId) VALUES
+('Altima 2.5S', 11),
+('Altima 2.5SL', 11);
+
+-- X-Trail (ModelId = 12)
+INSERT INTO [dbo].[SubModels] (Name, ModelId) VALUES
+('X-Trail S', 12),
+('X-Trail SV', 12);
+
+-- Navara (ModelId = 13)
+INSERT INTO [dbo].[SubModels] (Name, ModelId) VALUES
+('Navara King Cab', 13),
+('Navara Double Cab', 13);
+
+-- Note (ModelId = 14)
+INSERT INTO [dbo].[SubModels] (Name, ModelId) VALUES
+('Note S', 14),
+('Note SV', 14);
+
+-- Patrol (ModelId = 15)
+INSERT INTO [dbo].[SubModels] (Name, ModelId) VALUES
+('Patrol LE', 15),
+('Patrol SE', 15);
+
+-- ====================== Suzuki ======================
+-- Swift (ModelId = 16)
+INSERT INTO [dbo].[SubModels] (Name, ModelId) VALUES
+('Swift GL', 16),
+('Swift GLX', 16);
+
+-- Vitara (ModelId = 17)
+INSERT INTO [dbo].[SubModels] (Name, ModelId) VALUES
+('Vitara GL', 17),
+('Vitara GLX', 17);
+
+-- Alto (ModelId = 18)
+INSERT INTO [dbo].[SubModels] (Name, ModelId) VALUES
+('Alto LX', 18),
+('Alto DLX', 18);
+
+-- Celerio (ModelId = 19)
+INSERT INTO [dbo].[SubModels] (Name, ModelId) VALUES
+('Celerio LX', 19),
+('Celerio VXL', 19);
+
+-- Baleno (ModelId = 20)
+INSERT INTO [dbo].[SubModels] (Name, ModelId) VALUES
+('Baleno GL', 20),
+('Baleno GLX', 20);
+
+-- ====================== Mitsubishi ======================
+-- Pajero (ModelId = 21)
+INSERT INTO [dbo].[SubModels] (Name, ModelId) VALUES
+('Pajero GLS', 21),
+('Pajero Exceed', 21);
+
+-- Lancer (ModelId = 22)
+INSERT INTO [dbo].[SubModels] (Name, ModelId) VALUES
+('Lancer GL', 22),
+('Lancer EX', 22);
+
+-- Outlander (ModelId = 23)
+INSERT INTO [dbo].[SubModels] (Name, ModelId) VALUES
+('Outlander GLS', 23),
+('Outlander EX', 23);
+
+-- ASX (ModelId = 24)
+INSERT INTO [dbo].[SubModels] (Name, ModelId) VALUES
+('ASX GL', 24),
+('ASX GLX', 24);
+
+-- Triton (ModelId = 25)
+INSERT INTO [dbo].[SubModels] (Name, ModelId) VALUES
+('Triton GL', 25),
+('Triton GLX', 25);
+
+-- ====================== Ford ======================
+-- Ranger (ModelId = 26)
+INSERT INTO [dbo].[SubModels] (Name, ModelId) VALUES
+('Ranger XL', 26),
+('Ranger XLT', 26);
+
+-- Fiesta (ModelId = 27)
+INSERT INTO [dbo].[SubModels] (Name, ModelId) VALUES
+('Fiesta LX', 27),
+('Fiesta SEL', 27);
+
+-- Focus (ModelId = 28)
+INSERT INTO [dbo].[SubModels] (Name, ModelId) VALUES
+('Focus SE', 28),
+('Focus Titanium', 28);
+
+-- Mustang (ModelId = 29)
+INSERT INTO [dbo].[SubModels] (Name, ModelId) VALUES
+('Mustang GT', 29),
+('Mustang EcoBoost', 29);
+
+-- Everest (ModelId = 30)
+INSERT INTO [dbo].[SubModels] (Name, ModelId) VALUES
+('Everest XLS', 30),
+('Everest Titanium', 30);
+
+
+
+USE [ColomboAutoImportsDB];
+GO
+
+-- ====================== Toyota Vehicles ======================
+INSERT INTO [dbo].[Vehicles] (SubModelId, Year, Color) VALUES
+-- Corolla SubModels
+(1, 2020, 'White'),
+(2, 2019, 'Black'),
+(3, 2021, 'Silver'),
+
+-- Prius SubModels
+(4, 2022, 'Blue'),
+(5, 2021, 'Gray'),
+
+-- Hilux SubModels
+(6, 2020, 'White'),
+(7, 2018, 'Red'),
+
+-- Land Cruiser SubModels
+(8, 2022, 'Black'),
+(9, 2019, 'White'),
+
+-- RAV4 SubModels
+(10, 2021, 'Silver'),
+(11, 2020, 'Blue');
+
+-- ====================== Honda Vehicles ======================
+INSERT INTO [dbo].[Vehicles] (SubModelId, Year, Color) VALUES
+-- Civic SubModels
+(12, 2020, 'White'),
+(13, 2021, 'Black'),
+
+-- Accord SubModels
+(14, 2019, 'Silver'),
+(15, 2022, 'Blue'),
+
+-- CR-V SubModels
+(16, 2021, 'White'),
+(17, 2020, 'Gray'),
+
+-- Jazz SubModels
+(18, 2021, 'Red'),
+(19, 2020, 'White'),
+
+-- HR-V SubModels
+(20, 2022, 'Blue'),
+(21, 2019, 'Black');
+
+-- ====================== Nissan Vehicles ======================
+INSERT INTO [dbo].[Vehicles] (SubModelId, Year, Color) VALUES
+-- Altima SubModels
+(22, 2020, 'Black'),
+(23, 2021, 'White'),
+
+-- X-Trail SubModels
+(24, 2019, 'Silver'),
+(25, 2022, 'Blue'),
+
+-- Navara SubModels
+(26, 2021, 'White'),
+(27, 2020, 'Red'),
+
+-- Note SubModels
+(28, 2022, 'Blue'),
+(29, 2021, 'Black'),
+
+-- Patrol SubModels
+(30, 2020, 'White'),
+(31, 2021, 'Silver');
+
+-- ====================== Suzuki Vehicles ======================
+INSERT INTO [dbo].[Vehicles] (SubModelId, Year, Color) VALUES
+-- Swift SubModels
+(32, 2021, 'Red'),
+(33, 2020, 'White'),
+
+-- Vitara SubModels
+(34, 2022, 'Blue'),
+(35, 2021, 'Black'),
+
+-- Alto SubModels
+(36, 2020, 'White'),
+(37, 2021, 'Silver'),
+
+-- Celerio SubModels
+(38, 2022, 'Red'),
+(39, 2020, 'Blue'),
+
+-- Baleno SubModels
+(40, 2021, 'White'),
+(41, 2022, 'Gray');
+
+-- ====================== Mitsubishi Vehicles ======================
+INSERT INTO [dbo].[Vehicles] (SubModelId, Year, Color) VALUES
+-- Pajero SubModels
+(42, 2021, 'Black'),
+(43, 2020, 'White'),
+
+-- Lancer SubModels
+(44, 2019, 'Red'),
+(45, 2022, 'Blue'),
+
+-- Outlander SubModels
+(46, 2021, 'Gray'),
+(47, 2020, 'White'),
+
+-- ASX SubModels
+(48, 2022, 'Silver'),
+(49, 2021, 'Black'),
+
+-- Triton SubModels
+(50, 2020, 'White'),
+(51, 2021, 'Blue');
+
+
+
+
+  USE ColomboAutoImportsDB;
+GO
+
+UPDATE [ColomboAutoImportsDB].[dbo].[SubModels]
+SET 
+    [CIF_JPY] = 
+        CASE Id 
+            WHEN 1 THEN 1200000
+            WHEN 2 THEN 1550000
+            WHEN 3 THEN 1780000
+            WHEN 4 THEN 2100000
+            WHEN 5 THEN 2600000
+            WHEN 6 THEN 3100000
+            WHEN 7 THEN 3500000
+            WHEN 8 THEN 3900000
+            WHEN 9 THEN 4300000
+            WHEN 10 THEN 4700000
+            ELSE 1500000
+        END,
+
+    [ExchangeRate] = 
+        CASE Id 
+            WHEN 1 THEN 2.10
+            WHEN 2 THEN 2.15
+            WHEN 3 THEN 2.18
+            WHEN 4 THEN 2.20
+            WHEN 5 THEN 2.22
+            WHEN 6 THEN 2.25
+            WHEN 7 THEN 2.28
+            WHEN 8 THEN 2.30
+            WHEN 9 THEN 2.32
+            WHEN 10 THEN 2.35
+            ELSE 2.20
+        END,
+
+    [CIF_LKR] =
+        CASE Id
+            WHEN 1 THEN 2520000
+            WHEN 2 THEN 3332500
+            WHEN 3 THEN 3880400
+            WHEN 4 THEN 4620000
+            WHEN 5 THEN 5772000
+            WHEN 6 THEN 6975000
+            WHEN 7 THEN 7980000
+            WHEN 8 THEN 8970000
+            WHEN 9 THEN 9984000
+            WHEN 10 THEN 11045000
+            ELSE 3000000
+        END,
+
+    [TotalDuty] =
+        CASE Id
+            WHEN 1 THEN 850000
+            WHEN 2 THEN 920000
+            WHEN 3 THEN 1100000
+            WHEN 4 THEN 1300000
+            WHEN 5 THEN 1500000
+            WHEN 6 THEN 1650000
+            WHEN 7 THEN 1850000
+            WHEN 8 THEN 2000000
+            WHEN 9 THEN 2300000
+            WHEN 10 THEN 2600000
+            ELSE 1000000
+        END,
+
+    [ClearingCharges] =
+        CASE Id
+            WHEN 1 THEN 65000
+            WHEN 2 THEN 70000
+            WHEN 3 THEN 75000
+            WHEN 4 THEN 80000
+            WHEN 5 THEN 85000
+            WHEN 6 THEN 90000
+            WHEN 7 THEN 95000
+            WHEN 8 THEN 100000
+            WHEN 9 THEN 110000
+            WHEN 10 THEN 120000
+            ELSE 75000
+        END,
+
+    [BankDocCharge] =
+        CASE Id
+            WHEN 1 THEN 15000
+            WHEN 2 THEN 15500
+            WHEN 3 THEN 16000
+            WHEN 4 THEN 16500
+            WHEN 5 THEN 17000
+            WHEN 6 THEN 17500
+            WHEN 7 THEN 18000
+            WHEN 8 THEN 18500
+            WHEN 9 THEN 19000
+            WHEN 10 THEN 19500
+            ELSE 16000
+        END,
+
+    [DeliveryCharges] =
+        CASE Id
+            WHEN 1 THEN 35000
+            WHEN 2 THEN 36000
+            WHEN 3 THEN 38000
+            WHEN 4 THEN 40000
+            WHEN 5 THEN 42000
+            WHEN 6 THEN 45000
+            WHEN 7 THEN 47000
+            WHEN 8 THEN 49000
+            WHEN 9 THEN 52000
+            WHEN 10 THEN 55000
+            ELSE 40000
+        END;
+GO
+
+
+
+
+
+
+
+USE [ColomboAutoImportsDB];
+GO
+
+-- Insert sample data
+INSERT INTO dbo.FuelTypes (Name) VALUES
+('Petrol'),
+('Diesel'),
+('Electric'),
+('Hybrid'),
+('CNG'),
+('LPG');
+
+
+  USE [ColomboAutoImportsDB];
+GO
+
+-- ====================== Toyota Vehicles ======================
+UPDATE [dbo].[Vehicles] SET FuelTypeId = 1, EngineCapacity = '1500cc', ChassisId = CONCAT('TOY', Id) WHERE SubModelId IN (1,2,3,4,5,6,7,8,9,10,11);
+
+-- ====================== Honda Vehicles ======================
+UPDATE [dbo].[Vehicles] SET FuelTypeId = 2, EngineCapacity = '1800cc', ChassisId = CONCAT('HON', Id) WHERE SubModelId IN (12,13,14,15,16,17,18,19,20,21);
+
+-- ====================== Nissan Vehicles ======================
+UPDATE [dbo].[Vehicles] SET FuelTypeId = 1, EngineCapacity = '2000cc', ChassisId = CONCAT('NIS', Id) WHERE SubModelId IN (22,23,24,25,26,27,28,29,30,31);
+
+-- ====================== Suzuki Vehicles ======================
+UPDATE [dbo].[Vehicles] SET FuelTypeId = 3, EngineCapacity = '1200cc', ChassisId = CONCAT('SUZ', Id) WHERE SubModelId IN (32,33,34,35,36,37,38,39,40,41);
+
+-- ====================== Mitsubishi Vehicles ======================
+UPDATE [dbo].[Vehicles] SET FuelTypeId = 1, EngineCapacity = '2500cc', ChassisId = CONCAT('MIS', Id) WHERE SubModelId IN (42,43,44,45,46,47,48,49,50,51);
+
+-- ====================== Ford Vehicles (if any added) ======================
+-- Example: UPDATE [dbo].[Vehicles] SET FuelTypeId = 2, EngineCapacity = '2200cc', ChasisId = CONCAT('FOR', Id) WHERE SubModelId IN (...);

@@ -1,0 +1,451 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Solutions\\ColomboAutoImports\\ColomboAutoImports_backed\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9C3BDF9C-12F0-42D8-B5CC-197D94344C5A}|ColomboAutoImports.Api\\ColomboAutoImports.Api.csproj|e:\\solutions\\colomboautoimports\\colomboautoimports_backed\\colomboautoimports.api\\controllers\\vehiclemanagementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C3BDF9C-12F0-42D8-B5CC-197D94344C5A}|ColomboAutoImports.Api\\ColomboAutoImports.Api.csproj|solutionrelative:colomboautoimports.api\\controllers\\vehiclemanagementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C3BDF9C-12F0-42D8-B5CC-197D94344C5A}|ColomboAutoImports.Api\\ColomboAutoImports.Api.csproj|e:\\solutions\\colomboautoimports\\colomboautoimports_backed\\colomboautoimports.api\\controllers\\carmodelscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C3BDF9C-12F0-42D8-B5CC-197D94344C5A}|ColomboAutoImports.Api\\ColomboAutoImports.Api.csproj|solutionrelative:colomboautoimports.api\\controllers\\carmodelscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Solutions\\ColomboAutoImports\\ColomboAutoImports_backed\\ColomboAutoImports.Infrastructure\\Migrations\\20251116103939_AddVehcileRelatedTables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ColomboAutoImports.Infrastructure\\Migrations\\20251116103939_AddVehcileRelatedTables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C3BDF9C-12F0-42D8-B5CC-197D94344C5A}|ColomboAutoImports.Api\\ColomboAutoImports.Api.csproj|e:\\solutions\\colomboautoimports\\colomboautoimports_backed\\colomboautoimports.api\\mappingprofiles\\carmodelmappings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C3BDF9C-12F0-42D8-B5CC-197D94344C5A}|ColomboAutoImports.Api\\ColomboAutoImports.Api.csproj|solutionrelative:colomboautoimports.api\\mappingprofiles\\carmodelmappings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{272597A9-3181-43A8-8D84-200FE2802FEB}|ColomboAutoImports.Infrastructure\\ColomboAutoImports.Infrastructure.csproj|e:\\solutions\\colomboautoimports\\colomboautoimports_backed\\colomboautoimports.infrastructure\\repositories\\carmodelrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{272597A9-3181-43A8-8D84-200FE2802FEB}|ColomboAutoImports.Infrastructure\\ColomboAutoImports.Infrastructure.csproj|solutionrelative:colomboautoimports.infrastructure\\repositories\\carmodelrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{272597A9-3181-43A8-8D84-200FE2802FEB}|ColomboAutoImports.Infrastructure\\ColomboAutoImports.Infrastructure.csproj|e:\\solutions\\colomboautoimports\\colomboautoimports_backed\\colomboautoimports.infrastructure\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{272597A9-3181-43A8-8D84-200FE2802FEB}|ColomboAutoImports.Infrastructure\\ColomboAutoImports.Infrastructure.csproj|solutionrelative:colomboautoimports.infrastructure\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{272597A9-3181-43A8-8D84-200FE2802FEB}|ColomboAutoImports.Infrastructure\\ColomboAutoImports.Infrastructure.csproj|e:\\solutions\\colomboautoimports\\colomboautoimports_backed\\colomboautoimports.infrastructure\\entityconfigurations\\vehicleentityconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{272597A9-3181-43A8-8D84-200FE2802FEB}|ColomboAutoImports.Infrastructure\\ColomboAutoImports.Infrastructure.csproj|solutionrelative:colomboautoimports.infrastructure\\entityconfigurations\\vehicleentityconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{272597A9-3181-43A8-8D84-200FE2802FEB}|ColomboAutoImports.Infrastructure\\ColomboAutoImports.Infrastructure.csproj|e:\\solutions\\colomboautoimports\\colomboautoimports_backed\\colomboautoimports.infrastructure\\entityconfigurations\\submodelentityconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{272597A9-3181-43A8-8D84-200FE2802FEB}|ColomboAutoImports.Infrastructure\\ColomboAutoImports.Infrastructure.csproj|solutionrelative:colomboautoimports.infrastructure\\entityconfigurations\\submodelentityconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{272597A9-3181-43A8-8D84-200FE2802FEB}|ColomboAutoImports.Infrastructure\\ColomboAutoImports.Infrastructure.csproj|e:\\solutions\\colomboautoimports\\colomboautoimports_backed\\colomboautoimports.infrastructure\\entityconfigurations\\modelentityconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{272597A9-3181-43A8-8D84-200FE2802FEB}|ColomboAutoImports.Infrastructure\\ColomboAutoImports.Infrastructure.csproj|solutionrelative:colomboautoimports.infrastructure\\entityconfigurations\\modelentityconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{272597A9-3181-43A8-8D84-200FE2802FEB}|ColomboAutoImports.Infrastructure\\ColomboAutoImports.Infrastructure.csproj|e:\\solutions\\colomboautoimports\\colomboautoimports_backed\\colomboautoimports.infrastructure\\entityconfigurations\\brandentityconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{272597A9-3181-43A8-8D84-200FE2802FEB}|ColomboAutoImports.Infrastructure\\ColomboAutoImports.Infrastructure.csproj|solutionrelative:colomboautoimports.infrastructure\\entityconfigurations\\brandentityconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E506C189-D7C6-4B36-9937-D2DA47EC0633}|ColomboAutoImports.Core\\ColomboAutoImports.Core.csproj|e:\\solutions\\colomboautoimports\\colomboautoimports_backed\\colomboautoimports.core\\entities\\brandentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E506C189-D7C6-4B36-9937-D2DA47EC0633}|ColomboAutoImports.Core\\ColomboAutoImports.Core.csproj|solutionrelative:colomboautoimports.core\\entities\\brandentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E506C189-D7C6-4B36-9937-D2DA47EC0633}|ColomboAutoImports.Core\\ColomboAutoImports.Core.csproj|e:\\solutions\\colomboautoimports\\colomboautoimports_backed\\colomboautoimports.core\\entities\\modelentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E506C189-D7C6-4B36-9937-D2DA47EC0633}|ColomboAutoImports.Core\\ColomboAutoImports.Core.csproj|solutionrelative:colomboautoimports.core\\entities\\modelentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E506C189-D7C6-4B36-9937-D2DA47EC0633}|ColomboAutoImports.Core\\ColomboAutoImports.Core.csproj|e:\\solutions\\colomboautoimports\\colomboautoimports_backed\\colomboautoimports.core\\entities\\vehicleentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E506C189-D7C6-4B36-9937-D2DA47EC0633}|ColomboAutoImports.Core\\ColomboAutoImports.Core.csproj|solutionrelative:colomboautoimports.core\\entities\\vehicleentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E506C189-D7C6-4B36-9937-D2DA47EC0633}|ColomboAutoImports.Core\\ColomboAutoImports.Core.csproj|e:\\solutions\\colomboautoimports\\colomboautoimports_backed\\colomboautoimports.core\\entities\\userentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E506C189-D7C6-4B36-9937-D2DA47EC0633}|ColomboAutoImports.Core\\ColomboAutoImports.Core.csproj|solutionrelative:colomboautoimports.core\\entities\\userentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E506C189-D7C6-4B36-9937-D2DA47EC0633}|ColomboAutoImports.Core\\ColomboAutoImports.Core.csproj|e:\\solutions\\colomboautoimports\\colomboautoimports_backed\\colomboautoimports.core\\entities\\submodelentitycs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E506C189-D7C6-4B36-9937-D2DA47EC0633}|ColomboAutoImports.Core\\ColomboAutoImports.Core.csproj|solutionrelative:colomboautoimports.core\\entities\\submodelentitycs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C3BDF9C-12F0-42D8-B5CC-197D94344C5A}|ColomboAutoImports.Api\\ColomboAutoImports.Api.csproj|e:\\solutions\\colomboautoimports\\colomboautoimports_backed\\colomboautoimports.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C3BDF9C-12F0-42D8-B5CC-197D94344C5A}|ColomboAutoImports.Api\\ColomboAutoImports.Api.csproj|solutionrelative:colomboautoimports.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C3BDF9C-12F0-42D8-B5CC-197D94344C5A}|ColomboAutoImports.Api\\ColomboAutoImports.Api.csproj|e:\\solutions\\colomboautoimports\\colomboautoimports_backed\\colomboautoimports.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9C3BDF9C-12F0-42D8-B5CC-197D94344C5A}|ColomboAutoImports.Api\\ColomboAutoImports.Api.csproj|solutionrelative:colomboautoimports.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B75CFCA5-8F38-4442-8CE0-D0B561D83597}|ColomboAutoImports.Core.Services\\ColomboAutoImports.Core.Services.csproj|e:\\solutions\\colomboautoimports\\colomboautoimports_backed\\colomboautoimports.core.services\\carmodelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B75CFCA5-8F38-4442-8CE0-D0B561D83597}|ColomboAutoImports.Core.Services\\ColomboAutoImports.Core.Services.csproj|solutionrelative:colomboautoimports.core.services\\carmodelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C3BDF9C-12F0-42D8-B5CC-197D94344C5A}|ColomboAutoImports.Api\\ColomboAutoImports.Api.csproj|e:\\solutions\\colomboautoimports\\colomboautoimports_backed\\colomboautoimports.api\\dependencyinjections.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C3BDF9C-12F0-42D8-B5CC-197D94344C5A}|ColomboAutoImports.Api\\ColomboAutoImports.Api.csproj|solutionrelative:colomboautoimports.api\\dependencyinjections.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{272597A9-3181-43A8-8D84-200FE2802FEB}|ColomboAutoImports.Infrastructure\\ColomboAutoImports.Infrastructure.csproj|e:\\solutions\\colomboautoimports\\colomboautoimports_backed\\colomboautoimports.infrastructure\\entityconfigurations\\userentityconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{272597A9-3181-43A8-8D84-200FE2802FEB}|ColomboAutoImports.Infrastructure\\ColomboAutoImports.Infrastructure.csproj|solutionrelative:colomboautoimports.infrastructure\\entityconfigurations\\userentityconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{272597A9-3181-43A8-8D84-200FE2802FEB}|ColomboAutoImports.Infrastructure\\ColomboAutoImports.Infrastructure.csproj|e:\\solutions\\colomboautoimports\\colomboautoimports_backed\\colomboautoimports.infrastructure\\migrations\\20251006162956_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{272597A9-3181-43A8-8D84-200FE2802FEB}|ColomboAutoImports.Infrastructure\\ColomboAutoImports.Infrastructure.csproj|solutionrelative:colomboautoimports.infrastructure\\migrations\\20251006162956_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B75CFCA5-8F38-4442-8CE0-D0B561D83597}|ColomboAutoImports.Core.Services\\ColomboAutoImports.Core.Services.csproj|e:\\solutions\\colomboautoimports\\colomboautoimports_backed\\colomboautoimports.core.services\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B75CFCA5-8F38-4442-8CE0-D0B561D83597}|ColomboAutoImports.Core.Services\\ColomboAutoImports.Core.Services.csproj|solutionrelative:colomboautoimports.core.services\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E506C189-D7C6-4B36-9937-D2DA47EC0633}|ColomboAutoImports.Core\\ColomboAutoImports.Core.csproj|e:\\solutions\\colomboautoimports\\colomboautoimports_backed\\colomboautoimports.core\\interfaces\\services\\icarmodelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E506C189-D7C6-4B36-9937-D2DA47EC0633}|ColomboAutoImports.Core\\ColomboAutoImports.Core.csproj|solutionrelative:colomboautoimports.core\\interfaces\\services\\icarmodelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E506C189-D7C6-4B36-9937-D2DA47EC0633}|ColomboAutoImports.Core\\ColomboAutoImports.Core.csproj|e:\\solutions\\colomboautoimports\\colomboautoimports_backed\\colomboautoimports.core\\interfaces\\repositories\\icarmodelrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E506C189-D7C6-4B36-9937-D2DA47EC0633}|ColomboAutoImports.Core\\ColomboAutoImports.Core.csproj|solutionrelative:colomboautoimports.core\\interfaces\\repositories\\icarmodelrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E506C189-D7C6-4B36-9937-D2DA47EC0633}|ColomboAutoImports.Core\\ColomboAutoImports.Core.csproj|e:\\solutions\\colomboautoimports\\colomboautoimports_backed\\colomboautoimports.core\\models\\carmodelmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E506C189-D7C6-4B36-9937-D2DA47EC0633}|ColomboAutoImports.Core\\ColomboAutoImports.Core.csproj|solutionrelative:colomboautoimports.core\\models\\carmodelmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{272597A9-3181-43A8-8D84-200FE2802FEB}|ColomboAutoImports.Infrastructure\\ColomboAutoImports.Infrastructure.csproj|e:\\solutions\\colomboautoimports\\colomboautoimports_backed\\colomboautoimports.infrastructure\\migrations\\20251006165857_addusertable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{272597A9-3181-43A8-8D84-200FE2802FEB}|ColomboAutoImports.Infrastructure\\ColomboAutoImports.Infrastructure.csproj|solutionrelative:colomboautoimports.infrastructure\\migrations\\20251006165857_addusertable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VehicleManagementController.cs",
+              "DocumentMoniker": "E:\\Solutions\\ColomboAutoImports\\ColomboAutoImports_backed\\ColomboAutoImports.Api\\Controllers\\VehicleManagementController.cs",
+              "RelativeDocumentMoniker": "ColomboAutoImports.Api\\Controllers\\VehicleManagementController.cs",
+              "ToolTip": "E:\\Solutions\\ColomboAutoImports\\ColomboAutoImports_backed\\ColomboAutoImports.Api\\Controllers\\VehicleManagementController.cs",
+              "RelativeToolTip": "ColomboAutoImports.Api\\Controllers\\VehicleManagementController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T11:08:04.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20251116103939_AddVehcileRelatedTables.cs",
+              "DocumentMoniker": "E:\\Solutions\\ColomboAutoImports\\ColomboAutoImports_backed\\ColomboAutoImports.Infrastructure\\Migrations\\20251116103939_AddVehcileRelatedTables.cs",
+              "RelativeDocumentMoniker": "ColomboAutoImports.Infrastructure\\Migrations\\20251116103939_AddVehcileRelatedTables.cs",
+              "ToolTip": "E:\\Solutions\\ColomboAutoImports\\ColomboAutoImports_backed\\ColomboAutoImports.Infrastructure\\Migrations\\20251116103939_AddVehcileRelatedTables.cs",
+              "RelativeToolTip": "ColomboAutoImports.Infrastructure\\Migrations\\20251116103939_AddVehcileRelatedTables.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T10:39:39.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "VehicleEntityConfiguration.cs",
+              "DocumentMoniker": "E:\\Solutions\\ColomboAutoImports\\ColomboAutoImports_backed\\ColomboAutoImports.Infrastructure\\EntityConfigurations\\VehicleEntityConfiguration.cs",
+              "RelativeDocumentMoniker": "ColomboAutoImports.Infrastructure\\EntityConfigurations\\VehicleEntityConfiguration.cs",
+              "ToolTip": "E:\\Solutions\\ColomboAutoImports\\ColomboAutoImports_backed\\ColomboAutoImports.Infrastructure\\EntityConfigurations\\VehicleEntityConfiguration.cs",
+              "RelativeToolTip": "ColomboAutoImports.Infrastructure\\EntityConfigurations\\VehicleEntityConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T10:34:35.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "E:\\Solutions\\ColomboAutoImports\\ColomboAutoImports_backed\\ColomboAutoImports.Infrastructure\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "ColomboAutoImports.Infrastructure\\AppDbContext.cs",
+              "ToolTip": "E:\\Solutions\\ColomboAutoImports\\ColomboAutoImports_backed\\ColomboAutoImports.Infrastructure\\AppDbContext.cs",
+              "RelativeToolTip": "ColomboAutoImports.Infrastructure\\AppDbContext.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAIwA0AAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T12:20:36.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CarModelRepository.cs",
+              "DocumentMoniker": "E:\\Solutions\\ColomboAutoImports\\ColomboAutoImports_backed\\ColomboAutoImports.Infrastructure\\Repositories\\CarModelRepository.cs",
+              "RelativeDocumentMoniker": "ColomboAutoImports.Infrastructure\\Repositories\\CarModelRepository.cs",
+              "ToolTip": "E:\\Solutions\\ColomboAutoImports\\ColomboAutoImports_backed\\ColomboAutoImports.Infrastructure\\Repositories\\CarModelRepository.cs",
+              "RelativeToolTip": "ColomboAutoImports.Infrastructure\\Repositories\\CarModelRepository.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAArwDMAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T14:12:01.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CarModelsController.cs",
+              "DocumentMoniker": "E:\\Solutions\\ColomboAutoImports\\ColomboAutoImports_backed\\ColomboAutoImports.Api\\Controllers\\CarModelsController.cs",
+              "RelativeDocumentMoniker": "ColomboAutoImports.Api\\Controllers\\CarModelsController.cs",
+              "ToolTip": "E:\\Solutions\\ColomboAutoImports\\ColomboAutoImports_backed\\ColomboAutoImports.Api\\Controllers\\CarModelsController.cs",
+              "RelativeToolTip": "ColomboAutoImports.Api\\Controllers\\CarModelsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T12:03:56.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SubModelEntityConfiguration.cs",
+              "DocumentMoniker": "E:\\Solutions\\ColomboAutoImports\\ColomboAutoImports_backed\\ColomboAutoImports.Infrastructure\\EntityConfigurations\\SubModelEntityConfiguration.cs",
+              "RelativeDocumentMoniker": "ColomboAutoImports.Infrastructure\\EntityConfigurations\\SubModelEntityConfiguration.cs",
+              "ToolTip": "E:\\Solutions\\ColomboAutoImports\\ColomboAutoImports_backed\\ColomboAutoImports.Infrastructure\\EntityConfigurations\\SubModelEntityConfiguration.cs",
+              "RelativeToolTip": "ColomboAutoImports.Infrastructure\\EntityConfigurations\\SubModelEntityConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T10:33:40.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CarModelMappings.cs",
+              "DocumentMoniker": "E:\\Solutions\\ColomboAutoImports\\ColomboAutoImports_backed\\ColomboAutoImports.Api\\MappingProfiles\\CarModelMappings.cs",
+              "RelativeDocumentMoniker": "ColomboAutoImports.Api\\MappingProfiles\\CarModelMappings.cs",
+              "ToolTip": "E:\\Solutions\\ColomboAutoImports\\ColomboAutoImports_backed\\ColomboAutoImports.Api\\MappingProfiles\\CarModelMappings.cs",
+              "RelativeToolTip": "ColomboAutoImports.Api\\MappingProfiles\\CarModelMappings.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAawAoAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T12:44:25.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BrandEntityConfiguration.cs",
+              "DocumentMoniker": "E:\\Solutions\\ColomboAutoImports\\ColomboAutoImports_backed\\ColomboAutoImports.Infrastructure\\EntityConfigurations\\BrandEntityConfiguration.cs",
+              "RelativeDocumentMoniker": "ColomboAutoImports.Infrastructure\\EntityConfigurations\\BrandEntityConfiguration.cs",
+              "ToolTip": "E:\\Solutions\\ColomboAutoImports\\ColomboAutoImports_backed\\ColomboAutoImports.Infrastructure\\EntityConfigurations\\BrandEntityConfiguration.cs",
+              "RelativeToolTip": "ColomboAutoImports.Infrastructure\\EntityConfigurations\\BrandEntityConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T10:30:19.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "VehicleEntity.cs",
+              "DocumentMoniker": "E:\\Solutions\\ColomboAutoImports\\ColomboAutoImports_backed\\ColomboAutoImports.Core\\Entities\\VehicleEntity.cs",
+              "RelativeDocumentMoniker": "ColomboAutoImports.Core\\Entities\\VehicleEntity.cs",
+              "ToolTip": "E:\\Solutions\\ColomboAutoImports\\ColomboAutoImports_backed\\ColomboAutoImports.Core\\Entities\\VehicleEntity.cs",
+              "RelativeToolTip": "ColomboAutoImports.Core\\Entities\\VehicleEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T10:21:52.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ModelEntityConfiguration.cs",
+              "DocumentMoniker": "E:\\Solutions\\ColomboAutoImports\\ColomboAutoImports_backed\\ColomboAutoImports.Infrastructure\\EntityConfigurations\\ModelEntityConfiguration.cs",
+              "RelativeDocumentMoniker": "ColomboAutoImports.Infrastructure\\EntityConfigurations\\ModelEntityConfiguration.cs",
+              "ToolTip": "E:\\Solutions\\ColomboAutoImports\\ColomboAutoImports_backed\\ColomboAutoImports.Infrastructure\\EntityConfigurations\\ModelEntityConfiguration.cs",
+              "RelativeToolTip": "ColomboAutoImports.Infrastructure\\EntityConfigurations\\ModelEntityConfiguration.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAADwvxIAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T12:14:36.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BrandEntity.cs",
+              "DocumentMoniker": "E:\\Solutions\\ColomboAutoImports\\ColomboAutoImports_backed\\ColomboAutoImports.Core\\Entities\\BrandEntity.cs",
+              "RelativeDocumentMoniker": "ColomboAutoImports.Core\\Entities\\BrandEntity.cs",
+              "ToolTip": "E:\\Solutions\\ColomboAutoImports\\ColomboAutoImports_backed\\ColomboAutoImports.Core\\Entities\\BrandEntity.cs",
+              "RelativeToolTip": "ColomboAutoImports.Core\\Entities\\BrandEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T10:18:58.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ModelEntity.cs",
+              "DocumentMoniker": "E:\\Solutions\\ColomboAutoImports\\ColomboAutoImports_backed\\ColomboAutoImports.Core\\Entities\\ModelEntity.cs",
+              "RelativeDocumentMoniker": "ColomboAutoImports.Core\\Entities\\ModelEntity.cs",
+              "ToolTip": "E:\\Solutions\\ColomboAutoImports\\ColomboAutoImports_backed\\ColomboAutoImports.Core\\Entities\\ModelEntity.cs",
+              "RelativeToolTip": "ColomboAutoImports.Core\\Entities\\ModelEntity.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T11:57:32.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UserEntity.cs",
+              "DocumentMoniker": "E:\\Solutions\\ColomboAutoImports\\ColomboAutoImports_backed\\ColomboAutoImports.Core\\Entities\\UserEntity.cs",
+              "RelativeDocumentMoniker": "ColomboAutoImports.Core\\Entities\\UserEntity.cs",
+              "ToolTip": "E:\\Solutions\\ColomboAutoImports\\ColomboAutoImports_backed\\ColomboAutoImports.Core\\Entities\\UserEntity.cs",
+              "RelativeToolTip": "ColomboAutoImports.Core\\Entities\\UserEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T16:50:13.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SubModelEntitycs.cs",
+              "DocumentMoniker": "E:\\Solutions\\ColomboAutoImports\\ColomboAutoImports_backed\\ColomboAutoImports.Core\\Entities\\SubModelEntitycs.cs",
+              "RelativeDocumentMoniker": "ColomboAutoImports.Core\\Entities\\SubModelEntitycs.cs",
+              "ToolTip": "E:\\Solutions\\ColomboAutoImports\\ColomboAutoImports_backed\\ColomboAutoImports.Core\\Entities\\SubModelEntitycs.cs",
+              "RelativeToolTip": "ColomboAutoImports.Core\\Entities\\SubModelEntitycs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T10:21:13.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Solutions\\ColomboAutoImports\\ColomboAutoImports_backed\\ColomboAutoImports.Api\\Program.cs",
+              "RelativeDocumentMoniker": "ColomboAutoImports.Api\\Program.cs",
+              "ToolTip": "E:\\Solutions\\ColomboAutoImports\\ColomboAutoImports_backed\\ColomboAutoImports.Api\\Program.cs",
+              "RelativeToolTip": "ColomboAutoImports.Api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T14:07:42.77Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\Solutions\\ColomboAutoImports\\ColomboAutoImports_backed\\ColomboAutoImports.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "ColomboAutoImports.Api\\appsettings.json",
+              "ToolTip": "E:\\Solutions\\ColomboAutoImports\\ColomboAutoImports_backed\\ColomboAutoImports.Api\\appsettings.json",
+              "RelativeToolTip": "ColomboAutoImports.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-06T14:15:58.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CarModelService.cs",
+              "DocumentMoniker": "E:\\Solutions\\ColomboAutoImports\\ColomboAutoImports_backed\\ColomboAutoImports.Core.Services\\CarModelService.cs",
+              "RelativeDocumentMoniker": "ColomboAutoImports.Core.Services\\CarModelService.cs",
+              "ToolTip": "E:\\Solutions\\ColomboAutoImports\\ColomboAutoImports_backed\\ColomboAutoImports.Core.Services\\CarModelService.cs",
+              "RelativeToolTip": "ColomboAutoImports.Core.Services\\CarModelService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T12:32:03.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "20251006165857_AddUserTable.cs",
+              "DocumentMoniker": "E:\\Solutions\\ColomboAutoImports\\ColomboAutoImports_backed\\ColomboAutoImports.Infrastructure\\Migrations\\20251006165857_AddUserTable.cs",
+              "RelativeDocumentMoniker": "ColomboAutoImports.Infrastructure\\Migrations\\20251006165857_AddUserTable.cs",
+              "ToolTip": "E:\\Solutions\\ColomboAutoImports\\ColomboAutoImports_backed\\ColomboAutoImports.Infrastructure\\Migrations\\20251006165857_AddUserTable.cs",
+              "RelativeToolTip": "ColomboAutoImports.Infrastructure\\Migrations\\20251006165857_AddUserTable.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T16:58:58.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DependencyInjections.cs",
+              "DocumentMoniker": "E:\\Solutions\\ColomboAutoImports\\ColomboAutoImports_backed\\ColomboAutoImports.Api\\DependencyInjections.cs",
+              "RelativeDocumentMoniker": "ColomboAutoImports.Api\\DependencyInjections.cs",
+              "ToolTip": "E:\\Solutions\\ColomboAutoImports\\ColomboAutoImports_backed\\ColomboAutoImports.Api\\DependencyInjections.cs",
+              "RelativeToolTip": "ColomboAutoImports.Api\\DependencyInjections.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T12:50:26.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UserEntityConfiguration.cs",
+              "DocumentMoniker": "E:\\Solutions\\ColomboAutoImports\\ColomboAutoImports_backed\\ColomboAutoImports.Infrastructure\\EntityConfigurations\\UserEntityConfiguration.cs",
+              "RelativeDocumentMoniker": "ColomboAutoImports.Infrastructure\\EntityConfigurations\\UserEntityConfiguration.cs",
+              "ToolTip": "E:\\Solutions\\ColomboAutoImports\\ColomboAutoImports_backed\\ColomboAutoImports.Infrastructure\\EntityConfigurations\\UserEntityConfiguration.cs",
+              "RelativeToolTip": "ColomboAutoImports.Infrastructure\\EntityConfigurations\\UserEntityConfiguration.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAiwA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T16:51:56.25Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "20251006162956_InitialMigration.cs",
+              "DocumentMoniker": "E:\\Solutions\\ColomboAutoImports\\ColomboAutoImports_backed\\ColomboAutoImports.Infrastructure\\Migrations\\20251006162956_InitialMigration.cs",
+              "RelativeDocumentMoniker": "ColomboAutoImports.Infrastructure\\Migrations\\20251006162956_InitialMigration.cs",
+              "ToolTip": "E:\\Solutions\\ColomboAutoImports\\ColomboAutoImports_backed\\ColomboAutoImports.Infrastructure\\Migrations\\20251006162956_InitialMigration.cs",
+              "RelativeToolTip": "ColomboAutoImports.Infrastructure\\Migrations\\20251006162956_InitialMigration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T16:29:57.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Solutions\\ColomboAutoImports\\ColomboAutoImports_backed\\ColomboAutoImports.Core.Services\\Program.cs",
+              "RelativeDocumentMoniker": "ColomboAutoImports.Core.Services\\Program.cs",
+              "ToolTip": "E:\\Solutions\\ColomboAutoImports\\ColomboAutoImports_backed\\ColomboAutoImports.Core.Services\\Program.cs",
+              "RelativeToolTip": "ColomboAutoImports.Core.Services\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAIwBEAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T16:23:21.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ICarModelRepository.cs",
+              "DocumentMoniker": "E:\\Solutions\\ColomboAutoImports\\ColomboAutoImports_backed\\ColomboAutoImports.Core\\Interfaces\\Repositories\\ICarModelRepository.cs",
+              "RelativeDocumentMoniker": "ColomboAutoImports.Core\\Interfaces\\Repositories\\ICarModelRepository.cs",
+              "ToolTip": "E:\\Solutions\\ColomboAutoImports\\ColomboAutoImports_backed\\ColomboAutoImports.Core\\Interfaces\\Repositories\\ICarModelRepository.cs",
+              "RelativeToolTip": "ColomboAutoImports.Core\\Interfaces\\Repositories\\ICarModelRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T11:59:58.837Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ICarModelService.cs",
+              "DocumentMoniker": "E:\\Solutions\\ColomboAutoImports\\ColomboAutoImports_backed\\ColomboAutoImports.Core\\Interfaces\\Services\\ICarModelService.cs",
+              "RelativeDocumentMoniker": "ColomboAutoImports.Core\\Interfaces\\Services\\ICarModelService.cs",
+              "ToolTip": "E:\\Solutions\\ColomboAutoImports\\ColomboAutoImports_backed\\ColomboAutoImports.Core\\Interfaces\\Services\\ICarModelService.cs",
+              "RelativeToolTip": "ColomboAutoImports.Core\\Interfaces\\Services\\ICarModelService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T12:06:13.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "CarModelModel.cs",
+              "DocumentMoniker": "E:\\Solutions\\ColomboAutoImports\\ColomboAutoImports_backed\\ColomboAutoImports.Core\\Models\\CarModelModel.cs",
+              "RelativeDocumentMoniker": "ColomboAutoImports.Core\\Models\\CarModelModel.cs",
+              "ToolTip": "E:\\Solutions\\ColomboAutoImports\\ColomboAutoImports_backed\\ColomboAutoImports.Core\\Models\\CarModelModel.cs",
+              "RelativeToolTip": "ColomboAutoImports.Core\\Models\\CarModelModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T12:02:47.078Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
